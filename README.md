@@ -1,4 +1,4 @@
-### Project-5-SSH-Brute-Force-Attack-Detection-with-Wazuh-SIEM
+# Project-5-SSH-Brute-Force-Attack-Detection-with-Wazuh-SIEM
 
 ## Project Objective
 This project demonstrates how to detect and respond to Unauthorized Access attempts. By monitoring SSH authentication logs, I configured Wazuh SIEM to identify automated "Brute Force" attacks where an attacker tries multiple password combinations to gain entry to a Linux server.
